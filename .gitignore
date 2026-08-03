@@ -1,0 +1,18 @@
+node_modules
+.env
+
+# Hardhat
+/cache
+/artifacts
+/types
+
+# Addresses written by scripts/deploy.ts
+/deployments
+
+# Coverage
+/coverage
+/coverage.json
+
+# Editors / OS
+.DS_Store
+.cursor
